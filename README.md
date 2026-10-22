@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Vignesh A (Wikky)
+## Hi there 👋 It's me Vignesh (Wikky)
 
 <img align="right" height="260" width="350" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
@@ -12,10 +12,10 @@ Microsoft 365 Administrator | Enterprise Endpoint & Cloud Engineer
 - 💬 **Ask me about:** Intune, Entra ID, Exchange Online, Defender XDR & PowerShell
 - 📫 **How to reach me:**
   <br />
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/vignesh-arumugam003/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:wikky0003@gmail.com">
     <img src="https://img.shields.io/badge/OUTLOOK-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
   <a href="https://github.com/Wikky000333" target="_blank">
