@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Vignesh (Wikky)
 
-<img align="right" height="260" width="350" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" height="260" width="350" alt="Coding" src="https://assets.leetcode.com/users/images/3229b106-4b6e-44ec-a633-14930d6bf4fe_1688544321.9056633.png" />
 
 Microsoft 365 Administrator | Enterprise Endpoint & Cloud Engineer
 
@@ -12,10 +12,10 @@ Microsoft 365 Administrator | Enterprise Endpoint & Cloud Engineer
 - 💬 **Ask me about:** Intune, Entra ID, Exchange Online, Defender XDR & PowerShell
 - 📫 **How to reach me:**
   <br />
-  <a href="https://www.linkedin.com/in/vignesh-arumugam003/" target="_blank">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:wikky0003@gmail.com">
+  <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/OUTLOOK-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
   <a href="https://github.com/Wikky000333" target="_blank">
@@ -28,51 +28,43 @@ Microsoft 365 Administrator | Enterprise Endpoint & Cloud Engineer
 
 <br clear="both" />
 
-### I automate and administrate in
+## I automate and administrate in
 
 <p align="left">
-  <img src="https://img.icons8.com/fluency/96/powershell.png" height="50" width="50" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/PowerShell-0d1117?style=for-the-badge&logo=powershell&logoColor=00e5ff&labelColor=111a30" alt="PowerShell" />
   &nbsp;
-  <img src="https://img.icons8.com/fluency/96/microsoft-365.png" height="50" width="50" alt="M365" />
+  <img src="https://img.shields.io/badge/Microsoft_365-0d1117?style=for-the-badge&logo=microsoft&logoColor=00e5ff&labelColor=111a30" alt="M365" />
   &nbsp;
-  <img src="https://img.icons8.com/fluency/96/azure-1.png" height="50" width="50" alt="Entra ID" />
+  <img src="https://img.shields.io/badge/Entra_ID-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=00e5ff&labelColor=111a30" alt="Entra ID" />
   &nbsp;
-  <img src="https://img.icons8.com/fluency/96/microsoft-exchange.png" height="50" width="50" alt="Exchange" />
+  <img src="https://img.shields.io/badge/Exchange_Online-0d1117?style=for-the-badge&logo=microsoftexchange&logoColor=00e5ff&labelColor=111a30" alt="Exchange Online" />
   &nbsp;
-  <img src="https://img.icons8.com/fluency/96/windows-11.png" height="50" width="50" alt="Intune" />
+  <img src="https://img.shields.io/badge/Microsoft_Intune-0d1117?style=for-the-badge&logo=microsoft&logoColor=00e5ff&labelColor=111a30" alt="Intune" />
   &nbsp;
-  <img src="https://img.icons8.com/fluency/96/windows-defender.png" height="50" width="50" alt="Defender" />
+  <img src="https://img.shields.io/badge/Microsoft_Defender-0d1117?style=for-the-badge&logo=microsoft&logoColor=00e5ff&labelColor=111a30" alt="Defender" />
   &nbsp;
-  <img src="https://img.icons8.com/fluency/96/microsoft-sharepoint-2019.png" height="50" width="50" alt="SharePoint" />
+  <img src="https://img.shields.io/badge/SharePoint_Online-0d1117?style=for-the-badge&logo=microsoftsharepoint&logoColor=00e5ff&labelColor=111a30" alt="SharePoint" />
   &nbsp;
-  <img src="https://img.icons8.com/fluency/96/microsoft-onedrive-2019.png" height="50" width="50" alt="OneDrive" />
+  <img src="https://img.shields.io/badge/OneDrive-0d1117?style=for-the-badge&logo=microsoftonedrive&logoColor=00e5ff&labelColor=111a30" alt="OneDrive" />
   &nbsp;
-  <img src="https://img.icons8.com/fluency/96/microsoft-teams-2019.png" height="50" width="50" alt="Teams" />
-  &nbsp;
-  <img src="https://img.icons8.com/color/96/graphql.png" height="50" width="50" alt="Graph API" />
-  &nbsp;
-  <img src="https://img.icons8.com/color/96/html-5--v1.png" height="50" width="50" alt="HTML5" />
-  &nbsp;
-  <img src="https://img.icons8.com/fluency/96/json.png" height="50" width="50" alt="JSON" />
+  <img src="https://img.shields.io/badge/Microsoft_Graph-0d1117?style=for-the-badge&logo=graphql&logoColor=00e5ff&labelColor=111a30" alt="Graph API" />
 </p>
 
-### IDE, Admin Portals and Tools I Use
+## IDE, Admin Portals and Tools I Use
 
 <p align="left">
-  <img src="https://img.icons8.com/fluency/96/visual-studio-code-2019.png" height="50" width="50" alt="VS Code" />
+  <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=111a30" alt="VS Code" />
   &nbsp;
-  <img src="https://img.icons8.com/fluency/96/console.png" height="50" width="50" alt="Terminal" />
+  <img src="https://img.shields.io/badge/Windows_Terminal-0d1117?style=for-the-badge&logo=windowsterminal&logoColor=4D4D4D&labelColor=111a30" alt="Terminal" />
   &nbsp;
-  <img src="https://img.icons8.com/fluency/96/git.png" height="50" width="50" alt="Git" />
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=111a30" alt="Git" />
   &nbsp;
-  <img src="https://img.icons8.com/fluency/96/github.png" height="50" width="50" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=111a30" alt="GitHub" />
   &nbsp;
-  <img src="https://img.icons8.com/fluency/96/active-directory.png" height="50" width="50" alt="Active Directory" />
-  &nbsp;
-  <img src="https://img.icons8.com/fluency/96/security-shield-green.png" height="50" width="50" alt="Security" />
+  <img src="https://img.shields.io/badge/Active_Directory-0d1117?style=for-the-badge&logo=windows&logoColor=0078D4&labelColor=111a30" alt="Active Directory" />
 </p>
 
-### Featured M365 & PowerShell Automation Projects (Blueprints)
+## Featured M365 & PowerShell Automation Projects (Blueprints)
 
 - 🔹 **Intune Windows Update Compliance Reporter** — Automated Windows Update ring & compliance HTML reporting via Graph API.
 - 🔹 **PowerShell Application Update Automation Framework** — Silent enterprise background application patching using WinGet & Intune.
@@ -82,7 +74,7 @@ Microsoft 365 Administrator | Enterprise Endpoint & Cloud Engineer
 - 🔹 **SharePoint Online Permissions Auditor** — External sharing and site permission governance utility.
 - 🔹 **Microsoft Graph Automation Scripts** — Modular PowerShell toolkit for identity lifecycle and device management.
 
-### GitHub Statistics & Activity
+## GitHub Statistics & Activity
 
 > *Note: Language stats reflect public repository script files (such as PowerShell and HTML reports) rather than overall M365 platform administration expertise.*
 
